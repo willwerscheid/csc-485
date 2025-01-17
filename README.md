@@ -1,1 +1,1 @@
-# csc-485
+Type a brief description of your project here.
